@@ -4,5 +4,7 @@
     <string name="app_name">AlarmAloha</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="about_aloha">about ALOHA</string>
+    <string name="a_waves">a waves</string>
 
 </resources>
